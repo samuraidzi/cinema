@@ -72,4 +72,7 @@
            
       
     }
+    .header__list{
+        gap: 10px;
+    }
 }
